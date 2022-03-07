@@ -13,11 +13,11 @@ pour un côté chaleureuse et de l'autre côté froide et dépressive.
 
 
 # Voici l'installation en cours dans les studios 
-![installation](media/installation.png)
+![installation](media/installation.jpeg)
 Source : https:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 # Le schéma de l'installation prévue
-![plantation](media/plantation_01.png)
+![plantation](media/plantation_01.jpeg)
 Source : https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
 # Ce qui est prévu du téléspectateur est

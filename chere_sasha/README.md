@@ -1,1 +1,1 @@
-
+Voici la fiche technique.

@@ -13,11 +13,11 @@ Au début calme et de plus en plus chaotique.
 
 
 # Voici l'installation en cours dans les studios 
-![installation](media/installation.jpg)
+![installation](media/projecteurs.jpg)
 Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
 # Le schéma de l'installation prévue
-![plantation](media/plantation_01.jpg)
+![plantation](media/plantation.png)
 Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
 # Ce qui est prévu du téléspectateur est

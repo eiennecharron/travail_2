@@ -10,4 +10,5 @@ Il y a 2 ambiances différente dans l'oeuvre, une heureuse ou on y joue au ballo
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Il sera attendu de nous de jouer au ballon chasseur grâce a un casque de réalité virtuelle pendant 3 minutes et de part la suite rentrer dans un casier où on y vivra la vie de l'intimidé pendant un autre 3 minutes pour nous sensibiliser a l'intimidation 
-# 3 ours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
+# 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
+Le premier cours qui nous semble incontournable est le cours de modélisation 3D que nous allons avoir a la 3e session, grâce a ce cours il serait possible de crée un environnement en réaliter virtuelle comme le gimnase où il y a le jeu de ballon chasseur.

@@ -2,7 +2,7 @@
 3 minutes
 # créateur créatrice
 # la façon dont le theme du temps est exploiter dans la création
-Le temps exploiter dans la création nous permet de vivre 2 vie diferente, une heureuse et une malheureuse, pour nous sensibiliser a l'intimidation
+Le temps exploiter dans la création nous permet de vivre 2 vie diferente, une heureuse et une malheureuse, pour nous sensibiliser a l'intimidation qui est le thème principal de l'histoire.
 # l'ambiance
 # l'installation en cours dans les studios (photos a l'appui)
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)

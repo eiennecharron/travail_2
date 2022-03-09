@@ -1,16 +1,16 @@
 ## Titre
 Jeu Temporel
 
-### Les créateurs sont 
+### Noms des créateurs
 Raphaël Fillion et Philippe Trudel.
 
-# Les créateurs ont expoité le thème du temps en
-créant un quiz qui critique le mode de vie actuelle et qui avertisse le spectateur des conséquences probables ou certaines dans le futur. 
+# Comment les créateurs ont utiliser le thème du temps ?
+Ils ont créé un quiz qui critique le mode de vie actuelle et qui avertisse le spectateur des conséquences probables ou certaines dans le futur. 
 
-# L'ambiance est
+# Comment l'ambiance est-elle ?
 entrainante et amusante, mais devient de plus en plus lourde et conséquente. Plus les mauvaises questions s'accumulent, plus l'ambiance devient désastreuse.
 
-# Voici l'installation en cours dans les studios 
+# Voici l'installation en cours dans les studios
 ![podium](media/podium-wide.jpeg)
 Source : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
@@ -18,10 +18,12 @@ Source : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preprodu
 ![plan_technique](media/plan_technique_new.png)
 Source : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
-# Ce qui est prévu du téléspectateur est
-qu'il répond au question posé par l'animateur en appuyant sur les boutons qui son situé sur un boitier. Chaque mauvaise réponse entrainera un mécontantement de l'animateur. 
+# Qu'est ce qui est prévu du téléspectateur ?
+Le téléspectateur doit répondre aux uestion posé par l'animateur en appuyant sur les boutons qui son situé sur un boitier. Chaque mauvaise réponse entrainera un mécontantement de l'animateur. 
 
-# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
-Premièrement, le cour <<Espace Interactif>> a probablement aidé les élèves en ce qui conserne la création de la borne de jeux.
-Deuxièmement, le cour <<Intégration Web>> a probablement aidé les élèves en ce qui concerne le CSS.
-Troisièmement, le cour <<Introduction à la programmation multimédia>> a probablement aidé les élèves en ce qui concerne le JAVA Script.   
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet.
+Premièrement, le cour <<Espace Interactif>> a probablement aidé les élèves en ce qui conserne la projection sur le cyclorama. Dans ce projet, les créateurs ont besoins de projecter le quiz sur le cyclorama, mais pour cela leur cour d'<<Espace Interactif>> sera très utile. Ce cour sert à programmer et intégrer des objets interactifs dans un environnement réel. Pendant la visite, j'ai pu comprendre que pour afficher leur quiz sur le cyclorama ils devraient utiliser un logiciel et utiliser la programmation pour afficher parfaitement leur jeux temporel.
+
+  Deuxièmement, le cour <<Intégration Web>> a probablement aidé les élèves en ce qui concerne le CSS. Dans le jeux temporel, ils doivent utiliser le css pour tout ce qui est le visuel du jeux. Ce cour est incontournable dans notre parcour scolaire, il nous montre comment utiliser le CSS dans toute situation et comment bien l'utiliser.
+
+  Troisièmement, le cour <<Introduction à la programmation multimédia>> a probablement aidé les élèves en ce qui concerne le JAVA Script. Dans leur visual code ,pplication pour la programmation,nous pouvons voir des <<if>> cela est utilisé quand nous voulons faire deux choix. Si l'utlisateur doit choisir entre deux réponses, nous utilisons <<if>>. Nous apprenons cette notion dans le cour d'<<Introduction à la programmation multimédia>>.

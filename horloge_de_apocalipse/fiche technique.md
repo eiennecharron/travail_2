@@ -2,14 +2,14 @@
 ## Titre
 L'horloge de l'apocalypse
 
-### Les créateurs sont 
-Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco.+
+### Quels sont les créateurs ?
+Les créateurs sont Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco.
 
-# Les créateurs ont expoité le thème du temps en
-représentant plusieurs époques à l'aide d'une horloge.
+# Comment les créateurs ont exploités le thème du temps ?
+Ils veulent démontrer l'impact de l'humain au niveau sociaux politique et environnemental tout asu long de l'humanité à travers le concept de l'horloge de l'apocalypse. Ce concept créer en 1947 consiste à dénoncer le danger qui pèse sur l'humanité du fait des menaces nucléaires, écologiques et technologiques. Elle amène le concept que minuit serait la fin du monde et que une heure du matin serait le début de l'humanité.
 
-# L'ambiance est 
-Au début calme et de plus en plus chaotique.
+# Quelle est l'ambiance du projet ?
+Chaque moment dans l'histoire aura une ambiance différente et une scène différente. La première scène l'ambiance est très calme, sécuritaire et la deuxième sc`ne a ambiance est plutôt paradisiaque.  La troisième scène à une ambiance préhistorique et caverneuse et la quatrième scène à une ambiance hivernale. La cinquième scène à une ambiance médiévale, la sixième scène à une ambiance de renaissance et la septième ambiance elle est industrielle et menacante. La huitième scène l'ambiance est moderne et mysterieuse, la neuvième scène à une ambiance millitaire, la dixième scène à une ambiance sombre, lourde et malheureuse. Finalement, la dernière scène à une ambiance infernale et sinistre.
 
 
 # Voici l'installation en cours dans les studios 
@@ -20,13 +20,13 @@ Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs
 ![plantation](media/plantation.png)
 Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
-# Ce qui est prévu du téléspectateur est
-de toucher l'aiguille de l'horloge pour avancer le temps, donc changer d'époque.
+# Comment est-ce que le téléspectateur doit-il intéragir avec l'oeuvre ?
+Le téléspectateur doit déplacer l'aiguille situé sur l'horloge pour avancer le temps, donc changer de scène. Chaque scène aura une trame sonore différente et un visuel différent. Le téléspectateur pourra ensuite comprendre les changements négatifs au fil des années et qu'il faut agir sinon pire arrivera.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
-Premièrement, le cour <<Espace Interactif>> a probablement aidé les élèves en ce qui conserne la création de l'horloge. Ce cour apprend à l'élève d'utiliser des microcontrôleurs et des composants. Pour l'horloge ils doivent utiliser un objet qui pourra relier les consigns de l'ordinateur aux aiguilles de l'horloge.
+Premièrement, le cour "Espace Interactif" a probablement aidé les élèves en ce qui conserne la création de l'horloge. Ce cour apprend à l'élève d'utiliser des microcontrôleurs et des composants. Pour l'horloge ils doivent utiliser un objet qui pourra relier les consigns de l'ordinateur aux aiguilles de l'horloge.
 
-  Deuxièmement, le cour <<Domaine Du Multimédia>> a probablement aidé les élèves en ce qui concerne l'utilisation de OBS. OBS est un logiciel de capture d'écran et pour leur vidéo de présentation, ils ont utilisé OBS. Nous apprenons ce logiciel à la première sessions dans le cour de <<Domaine Du Multimédia>>.
+  Deuxièmement, le cour "Domaine Du Multimédia" a probablement aidé les élèves en ce qui concerne l'utilisation de OBS. OBS est un logiciel de capture d'écran et pour leur vidéo de présentation, ils ont utilisé OBS. Nous apprenons ce logiciel à la première sessions dans le cour de <<Domaine Du Multimédia>>.
 
-  Troisièmement, le cour <<Animation 2D>> a probablement aidé les élèves en ce qui concerne la création des décors en vectorielle. Les époques ont été créés en vectoriel et nous aprennons l'animation vectoriel dans le cour d'<<Animation 2D>>.  
+  Troisièmement, le cour "Animation 2D" a probablement aidé les élèves en ce qui concerne la création des décors en vectorielle. Les époques ont été créés en vectoriel et nous aprennons l'animation vectoriel dans le cour d'<<Animation 2D>>.  
 

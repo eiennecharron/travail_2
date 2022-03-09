@@ -2,7 +2,7 @@
 3 minutes
 # créateur créatrice
 - **Naoufal Bensaiad**
-- **Jérémie Lévesqu
+- **Jérémie Lévesque**
 - **Samuel Poulin**
 # la façon dont le theme du temps est exploiter dans la création
 Le temps exploiter dans la création nous permet de vivre 3 minutes dans 2 vies diferentes, une heureuse et une malheureuse, pour nous sensibiliser a l'intimidation qui est le thème principal de l'histoire.

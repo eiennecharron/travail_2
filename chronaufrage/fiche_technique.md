@@ -12,7 +12,7 @@ Le temps intéragie avec le personnage dans les tableau. Le personnage dans les 
 L'ambiance varie des tableaux, dans le premier tableau il y a de la pluie, dans le deuxième tableau il y a une cascade, dan le troisième tableau il y beaucoup d'eau puisque le personnage se noie et dans le dernier tableau c'est très calme et coloré.
 # l'installation en cours dans les studios (photos a l'appui)
 ![image 1 de l'oeuvre Chronaufrage](media/image_chronaufrage_01.jpg)
-![image 2 de l'oeuvre Chronaufrage](media/image_chronaufrage_02.jpg
+![image 2 de l'oeuvre Chronaufrage](media/image_chronaufrage_02.jpg)
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
 
 Lien vers l'image → https://github.com/Blobduckies/Chronaufrage/blob/main/docs/preproduction/medias/plan_technique.png

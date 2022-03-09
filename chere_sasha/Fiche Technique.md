@@ -20,7 +20,7 @@ Source : https:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/ind
 Source : https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
 # Ce qui est prévu du téléspectateur est
-Le téléspectateur va intéragir avec le décor de deux chambres différentes pour comprendre comment Sasha était-elle adolescente et adulte. Plusieurs objets intéractifs et naratifs seront à la disposition des téléspectateurs.
+Le téléspectateur va intéragir avec le décor de deux chambres différentes pour comprendre comment Sasha était-elle adolescente et adulte. Plusieurs objets intéractifs et naratifs seront à la disposition des téléspectateurs comme les journaux, la poubelle et un téléphone cellulaire. Aussi nous allons pouvoir laisser notre trace en écrivant un message d'encouragement à Sasha qui sera projeté sur le mur.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 Premièrement, le cour "Conception Sonore" a aidé les élèves en ce qui conserne la création de la bande sonore.

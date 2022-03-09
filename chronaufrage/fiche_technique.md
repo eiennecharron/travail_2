@@ -13,6 +13,8 @@ L'ambiance varie des tableaux, dans le premier tableau il y a de la pluie, dans 
 # l'installation en cours dans les studios (photos a l'appui)
 ![image 1 de l'oeuvre Chronaufrage](media/image_chronaufrage_01.jpg)
 ![image 2 de l'oeuvre Chronaufrage](media/image_chronaufrage_02.jpg)
+
+Lien vers les images → https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
 ![image du schéma de plentation](media/image_chronaufrage_plentation.png)
 

@@ -15,7 +15,7 @@ L'ambiance varie des tableaux, dans le premier tableau il y a de la pluie, dans 
 ![image 2 de l'oeuvre Chronaufrage](media/image_chronaufrage_02.jpg)
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
 
-Lien vers l'image → https://github.com/Blobduckies/Chronaufrage/blob/main/docs/preproduction/medias/plan_technique.png
+Lien vers les image → https://github.com/Blobduckies/Chronaufrage/blob/main/docs/preproduction/medias/plan_technique.png
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Nous entrons dans un musé avec 4 grand tableaus où on peut y voir le personnage de l'histoire. Les visiteurs du musée s'avance vers les oeuvres et découvre qu'il est possible d'intéragire avec eux, a travers des tableaux il y a une histoire avec le personnages des tableaux qui est raconté.
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet

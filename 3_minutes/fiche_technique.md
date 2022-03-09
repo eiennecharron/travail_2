@@ -10,7 +10,7 @@ Le temps exploiter dans la création nous permet de vivre 3 minutes dans 2 vies 
 Il y a 2 ambiances différente dans l'oeuvre, une heureuse ou on y joue au ballon chasseur dans un gimnase et une autre sombre et malheureuse où on y vit la vie d'une personne intimidé coincé dans un casier
 # l'installation en cours dans les studios (photos a l'appui)
 ![image de l'installation de 3 Minutes](media/image_3_minutes.png)
-lien vers l'image ▬▶ https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
+https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Il sera attendu de nous de jouer au ballon chasseur grâce a un casque de réalité virtuelle pendant 3 minutes et de part la suite rentrer dans un casier où on y vivra la vie de l'intimidé pendant un autre 3 minutes pour nous sensibiliser a l'intimidation 

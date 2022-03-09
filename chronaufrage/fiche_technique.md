@@ -1,7 +1,11 @@
 # titre
 Chronaufrage
 # créateur créatrice
-
+- **Maloney Khim**
+- **Sounthida Kong**
+- **Olivier Lalonde**
+- **Rebecca Pilotte**
+- **Émilie Fontaine**
 # la façon dont le theme du temps est exploiter dans la création
 Le temps intéragie avec le personnage dans les tableau. Le personnage dans les tableau est dans une certaine situation et, dépendamment de où nous somme placer devant les tableau, la vitesse des évenement s'accélere stressant le personnage des tableau. Dans le dernier tableau, le personnage n'est plus influencer par nous. 
 # l'ambiance

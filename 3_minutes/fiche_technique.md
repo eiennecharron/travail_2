@@ -13,6 +13,9 @@ Il y a 2 ambiances différente dans l'oeuvre, une heureuse ou on y joue au ballo
 
 https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # le schéma de l'installation prévue (insérer le schéma de plantation avec la source)
+![image du schéma de plentation](media/image_3_minutes_plentation.png)
+
+https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Il sera attendu de nous de jouer au ballon chasseur grâce a un casque de réalité virtuelle pendant 3 minutes et de part la suite rentrer dans un casier où on y vivra la vie de l'intimidé pendant un autre 3 minutes pour nous sensibiliser a l'intimidation 
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet

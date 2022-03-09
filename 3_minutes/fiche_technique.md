@@ -1,5 +1,5 @@
 # titre
-3 minutes
+*3 minutes*
 # créateur créatrice
 - **Naoufal Bensaiad**
 - **Jérémie Lévesque**

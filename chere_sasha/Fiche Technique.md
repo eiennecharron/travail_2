@@ -8,9 +8,8 @@ Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani.
 # Les créateurs ont expoité le thème du temps en
 démontrant les deux vies de Sasha et comment cela affecte sa santé mentale. 
 
-# L'ambiance est 
-pour un côté chaleureuse et de l'autre côté froide et dépressive.
-
+# Comment l'ambiance est-elle ?
+L'ambiance est pour le côté de la chambre de Sasha adolescente désordonné, froide, dépressive,sombre et pour le côté adulte de la chambre de Sasha une ambiance heureuse, coloré, douce et confortable.
 
 # Voici l'installation en cours dans les studios 
 ![installation](media/installation.jpg)
@@ -21,7 +20,7 @@ Source : https:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/ind
 Source : https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
 # Ce qui est prévu du téléspectateur est
-de découvrir la vie de Sasha et comment cela l'affecte à deux moments différents de sa vie.
+Le téléspectateur va intéragir avec le décor de deux chambres différentes pour comprendre comment Sasha était-elle adolescente et adulte. Plusieurs objets intéractifs et naratifs seront à la disposition des téléspectateurs.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 Premièrement, le cour "Conception Sonore" a aidé les élèves en ce qui conserne la création de la bande sonore.

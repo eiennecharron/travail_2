@@ -24,7 +24,7 @@ Nous entrons dans un musé avec 4 grand tableaus où on peut y voir le personnag
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
 1. Premièrement, le cours d'espace intéractif pourrait permettre d'apprendre comment détecter qu'une personnage est devant et bouge devant les tableaux et de les rendres intéractif dépendamment de la position des personnes.
   
-3. Deuxièmement, nous pensons qu'il faudrait le cours d'animation 2D pour réaliser les oeuvres en vectoriel sur illustrator et de garder la qualité quand placer sur les tableau et de realiser une animation 2D grâce a after effect.
+2. Deuxièmement, nous pensons qu'il faudrait le cours d'animation 2D pour réaliser les oeuvres en vectoriel sur illustrator et de garder la qualité quand placer sur les tableau et de realiser une animation 2D grâce a after effect.
  
-5. Troisiémement , il faudrait le cours de conception sonore pour submerger les personnes intéragissant avec les oeuvres.
+3. Troisiémement , il faudrait le cours de conception sonore pour submerger les personnes intéragissant avec les oeuvres.
 

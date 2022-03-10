@@ -26,3 +26,11 @@
 # Ce que vous croyez que vous ressentirez en experimentant chacune des experimentations
 
 # le role que vous croyez que vous jouerez dans un tel projets lorsque vous serez en 3e année
+
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+You can now import Markdown table code directly using 

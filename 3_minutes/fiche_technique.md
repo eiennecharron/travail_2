@@ -15,7 +15,7 @@ Source : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Le schéma de l'installation prévue
 ![image du schéma de plentation](media/image_3_minutes_plentation.png)
 
-Lien vers l'image → https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
+Source : https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Il sera attendu de nous de jouer au ballon chasseur grâce a un casque de réalité virtuelle pendant 3 minutes et de part la suite rentrer dans un casier où on y vivra la vie de l'intimidé pendant un autre 3 minutes pour nous sensibiliser a l'intimidation. 
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet

@@ -16,7 +16,7 @@
 
 
 
-# Ce que vous croyez que vous ressentirez en experimentant chacune des experimentations
+# Ce que vous croyez que vous ressentirez en expérimentant chacune des expérimentations
 | L'horloge de l'apocalypse | Je suis sure que je serais curieux de voir le changement du monde dépendamment du temps que sur l'horloge. J'imagine que je vais ressentir peu de tristesse pour le monde, car le but de l'expérience est de réaliser que le monde peut prendre fin.                                    |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chère Sasha               | C'est une des oeuvres que je suis le plus impatient d'assaillez alors je vais sans aucun doute être impatient et curieux quand j'interagirai avec les objets dans les chambres. Je serais surement impressionné de voir comment le personnage est devenu une meilleure personne.        |
@@ -28,6 +28,6 @@
 
 
 
-# le role que vous croyez que vous jouerez dans un tel projets lorsque vous serez en 3e année
+# le rôle que vous croyez que vous jouerez dans un tel projet lorsque vous serez en 3e année
 
 Je pense que être dans dans un role comme coordination artistique pour être sure que le projets reste correct et ne pas perdre le but principal. Je pense que sa m'irais bien parce que je suis réaliste et minutieux ce qui me permettrait de m'assurer que tout va bien et ne déraille pas de l'idée principal.

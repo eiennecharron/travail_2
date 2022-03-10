@@ -1,12 +1,15 @@
 
 ## Titre
-Chère Sasha
+*Chère Sasha*
 
 ### Les créateurs sont 
-Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani.
+- **Trish Nguyen**
+- **Angelina De Silva Jeca**
+- **Karine Cormier**
+- **Sabrina Kayani.**
 
 # Les créateurs ont expoité le thème du temps en
-démontrant les deux vies de Sasha et comment cela affecte sa santé mentale. 
+Démontrant les deux vies de Sasha et comment cela affecte sa santé mentale. 
 
 # Comment l'ambiance est-elle ?
 L'ambiance est pour le côté de la chambre de Sasha adolescente désordonné, froide, dépressive,sombre et pour le côté adulte de la chambre de Sasha une ambiance heureuse, coloré, douce et confortable.

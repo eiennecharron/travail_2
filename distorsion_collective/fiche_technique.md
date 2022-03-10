@@ -21,6 +21,8 @@ Il sera attendu de nous de rentrer dans une pièce bleu où il y aura un casque 
 
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
 1. Le premiere cours qu'il faudrait pour réaliser le projet serait le cours de modélisation 3D pour réaliser le décors dans la réaliter virtuelle pour rendre le plus réaliste possible l'experience.
-2. Le deuxieme cours serait le cours de réalitée virtuelle. En effet, pour intégrer les différents objets réaliser dans le cours de modélisation 3D.
-3. Le troisième cours de conception sonor pour réaliser les sons étranges qui viennent distabiliser le personnage.
+
+3. Le deuxieme cours serait le cours de réalitée virtuelle. En effet, pour intégrer les différents objets réaliser dans le cours de modélisation 3D.
+
+5. Le troisième cours de conception sonor pour réaliser les sons étranges qui viennent distabiliser le personnage.
 

@@ -4,10 +4,10 @@
 - **Naoufal Bensaiad**
 - **Jérémie Lévesque**
 - **Samuel Poulin**
-# La façon dont le theme du temps est exploiter dans la création
-Le temps exploiter dans la création nous permet de vivre 3 minutes dans 2 vies diferentes, une heureuse et une malheureuse, pour nous sensibiliser a l'intimidation qui est le thème principal de l'histoire.
+# La façon dont le thème du temps est exploité dans la création
+Le temps exploiter dans la création nous permet de vivre 3 minutes dans 2 vies différentes, une heureuse et une malheureuse, pour nous sensibiliser a l'intimidation qui est le thème principal de l'histoire.
 # L'ambiance
-Il y a 2 ambiances différente dans l'oeuvre, une heureuse ou on y joue au ballon chasseur dans un gimnase et une autre sombre et malheureuse où on y vit la vie d'une personne intimidé coincé dans un casier.
+Il y a 2 ambiances différentes dans l'oeuvre, une heureuse où on y joue au ballon chasseur dans un gymnase et une autre obscure et malheureuse où l’on y vit la vie d'une personne intimidée coincée dans un casier.
 # L'installation en cours dans les studios
 ![image de l'installation de 3 Minutes](media/image_3_minutes.png)
 

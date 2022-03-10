@@ -1,5 +1,5 @@
 
-# Les projets réaliser par les 3e année en ordre de préférence
+# Les projets réalisés par les 3e année en ordre de préférence
 
 
 | 1. *L'horloge de l'apocalypse* | L'horloge de l'apocalypse est celle que j'ai le plus hâte de voir en vrai, je pense que faire passer la personne interagissant avec "l'horloge de l'apocalypse" à travers le       temps est une très bonne idée. Je pense que non seulement l'idée est bien pensée mais le décor est vraiment beau. Placer un appareil téléphonique qui vient d'un temps plus futuriste sur     un piédestale qui vient du passé est une très bonne idée, c'est comme si toutes les époques étaient reliées. Je pense que pour les raisons que j'ai nommées, l'oeuvre se démarque des      autres et mérite la première place. |

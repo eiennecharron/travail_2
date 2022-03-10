@@ -1,9 +1,13 @@
 
 ## Titre
-L'horloge de l'apocalypse
+*L'horloge de l'apocalypse*
 
 ### Quels sont les créateurs ?
-Les créateurs sont Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco.
+1. **Maxime Sabourin**
+2. **Louis-Philippe Gravel**
+3. **Alexis Lacasse**
+4. **Tristan Girard-Montpetit**
+5. **Maxime De Falco**
 
 # Comment les créateurs ont exploités le thème du temps ?
 Ils veulent démontrer l'impact de l'humain au niveau sociaux politique et environnemental tout asu long de l'humanité à travers le concept de l'horloge de l'apocalypse. Ce concept créer en 1947 consiste à dénoncer le danger qui pèse sur l'humanité du fait des menaces nucléaires, écologiques et technologiques. Elle amène le concept que minuit serait la fin du monde et que une heure du matin serait le début de l'humanité.
@@ -24,9 +28,9 @@ Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs
 Le téléspectateur doit déplacer l'aiguille situé sur l'horloge pour avancer le temps, donc changer de scène. Chaque scène aura une trame sonore différente et un visuel différent. Le téléspectateur pourra ensuite comprendre les changements négatifs au fil des années et qu'il faut agir sinon pire arrivera.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
-Premièrement, le cour "Espace Interactif" a probablement aidé les élèves en ce qui conserne la création de l'horloge. Ce cour apprend à l'élève d'utiliser des microcontrôleurs et des composants. Pour l'horloge ils doivent utiliser un objet qui pourra relier les consigns de l'ordinateur aux aiguilles de l'horloge.
+1. Premièrement, le cour "Espace Interactif" a probablement aidé les élèves en ce qui conserne la création de l'horloge. Ce cour apprend à l'élève d'utiliser des microcontrôleurs et des composants. Pour l'horloge ils doivent utiliser un objet qui pourra relier les consigns de l'ordinateur aux aiguilles de l'horloge.
 
-  Deuxièmement, le cour "Domaine Du Multimédia" a probablement aidé les élèves en ce qui concerne l'utilisation de OBS. OBS est un logiciel de capture d'écran et pour leur vidéo de présentation, ils ont utilisé OBS. Nous apprenons ce logiciel à la première sessions dans le cour de <<Domaine Du Multimédia>>.
+2. Deuxièmement, le cour "Domaine Du Multimédia" a probablement aidé les élèves en ce qui concerne l'utilisation de OBS. OBS est un logiciel de capture d'écran et pour leur vidéo de présentation, ils ont utilisé OBS. Nous apprenons ce logiciel à la première sessions dans le cour de <<Domaine Du Multimédia>>.
 
-  Troisièmement, le cour "Animation 2D" a probablement aidé les élèves en ce qui concerne la création des décors en vectorielle. Les époques ont été créés en vectoriel et nous aprennons l'animation vectoriel dans le cour d'<<Animation 2D>>.  
+3. Troisièmement, le cour "Animation 2D" a probablement aidé les élèves en ce qui concerne la création des décors en vectorielle. Les époques ont été créés en vectoriel et nous aprennons l'animation vectoriel dans le cour d'<<Animation 2D>>.  
 

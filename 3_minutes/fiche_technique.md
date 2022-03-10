@@ -11,7 +11,7 @@ Il y a 2 ambiances différente dans l'oeuvre, une heureuse ou on y joue au ballo
 # L'installation en cours dans les studios
 ![image de l'installation de 3 Minutes](media/image_3_minutes.png)
 
-Lien vers l'image → https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
+Source : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Le schéma de l'installation prévue
 ![image du schéma de plentation](media/image_3_minutes_plentation.png)
 

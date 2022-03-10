@@ -25,7 +25,9 @@
 
 4. *Distortion collective* : C'est celui qui sonne le plus intéressant en réalité virtuelle alors je serais définitivement très curieux. plus en plus que l'histoire avance je pense que jais commencer a être un peu mal a laise puisuqe les scnène vont devenir étranges et bizard.
 
-5.
+5. *Chronaufrage* : je vais être impressionner du résultats final des dessin et des animation. Je vais peut-être être un peu triste pour le personnage de l'histoire qui vit des situations triste comme quand le noie ou quand elle essai de boucher des troues sans succès.
+
+6. *3 minutes* : je vais avoir du plaisir a jouer au ballon chasseur et assailler d'avoir le meilleur score possible. Dans le casier, je pene que je me sentirais effrayer, déranger ou même de la peur à cause des sons étranges qui vont m'entourer.
  
 
 

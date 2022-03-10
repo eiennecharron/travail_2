@@ -10,4 +10,4 @@ Le raspberry pi est une composante technoloquie que nous ne connaissions pas. Da
 
 ![image projecter déformer](media/image_raspberry_pi.jpeg)
 
-
+Source : https://www.raspberrypi.com/products/raspberry-pi-4-model-b/

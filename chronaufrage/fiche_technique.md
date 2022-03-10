@@ -8,7 +8,7 @@
 - **Émilie Fontaine**
 # La façon dont le theme du temps est exploiter dans la création
 Le temps intéragie avec le personnage dans les tableau. Le personnage dans les tableau est dans une certaine situation et, dépendamment de où nous somme placer devant les tableau, la vitesse des évenement s'accélere stressant le personnage des tableau. Dans le dernier tableau, le personnage n'est plus influencer par nous. 
-# l'ambiance
+# L'ambiance
 L'ambiance varie des tableaux, dans le premier tableau il y a de la pluie, dans le deuxième tableau il y a une cascade, dan le troisième tableau il y beaucoup d'eau puisque le personnage se noie et dans le dernier tableau c'est très calme et coloré.
 # L'installation en cours dans les studios (photos a l'appui)
 ![image 1 de l'oeuvre Chronaufrage](media/image_chronaufrage_01.jpg)

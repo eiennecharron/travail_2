@@ -14,5 +14,5 @@ l'ambiance au tout début est calme et relaxe, l'hisoire se déroule a 4 endroit
 Il sera attendu de nous de rentrer dans une pièce bleu où il y aura un casque de réaliter virtuelle que nous allon mettre sur notre tête. Une foix dans le jeu, nous somme dans la chambre du personnage qui commence ses cours Zoam en lignes et on parle avec le proffeseur qui explique les devoirs. Par la suite, la scène change et nous mangons un bol de céréale dans une cuisine. Ensuite la scène change et nous écoutons la télévisions dans un salon.L'est trois dernière étapes recommence tout le le long de l'histoire
 
 # 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
-
+1. asdasd
 

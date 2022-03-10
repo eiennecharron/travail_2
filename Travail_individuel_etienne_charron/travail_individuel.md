@@ -33,4 +33,3 @@
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
-You can now import Markdown table code directly using 

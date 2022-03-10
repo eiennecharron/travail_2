@@ -5,11 +5,22 @@
 
 
 
-3. *Chèere Sasha*
-4. *Jeu temporelle*
-5. *Chronaufrage*
-6. *Distortion collective*
-7. *3 minutes*
+2. *Chèere Sasha*
+- Chère Sasha et son utilisation du temps est aussi vraiment intéressant puisque sa permet a celui qui intéragit avec l'oeuvre de voire la vie d'une personne dans deux moments différents de sa vie. Je pense que l'oeuvre mérite deuxièeme place parce que il y a beaucoup d'intéractivité avec la personne qui visite l'oeuvre puisque la personne peut visiter a son rythme et intéragir avec les objets des chambres du personnage.
+
+
+
+
+3. *Jeu temporelle*
+
+
+
+
+
+
+7. *Chronaufrage*
+8. *Distortion collective*
+9. *3 minutes*
 
 
 # Ce que vous croyez que vous ressentirez en experimentant chacune des experimentations

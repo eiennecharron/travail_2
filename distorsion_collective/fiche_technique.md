@@ -3,26 +3,22 @@
 # Créateur créatrice
 - **William Dubois**
 - **Ghislain Lacombe**
-# La façon dont le theme du temps est exploiter dans la création
-De plus en plus que l'histoire avance, de pire en pire la situation est. Au tout début, le personnage est enthousiaste de commencer ses cours en lignes sauf que de plus en plus les journées passe, de plus en plus il se sent étoufer par les traveaux.
+# La façon dont le thème du temps est exploité dans la création
+De plus en plus que l'histoire avance, de pire en pire la situation est. Au tout début, le personnage est enthousiaste de commencer ses cours en lignes sauf que de plus en plus les journées passent, de plus en plus il se sent étouffé par les travaux.
 # L'ambiance
-L'ambiance au tout début est calme et relaxe, l'hisoire se déroule a 4 endroit, dans le grand studio au tout début, le grand studio est bleu avec de la musique relaxante. La deuxième endroit est la chambre le matin ou il y a son ordinatoeur pour rejoindre le Zoam de classe et comuniquer avec son professeur. La troisième endroit est la salle a manger où mange ses céreales. La quatrième endroit est le soir dans son salon où le personnage regarde la télévision. Tous les endroits deviennent de plus en plus étrange au fils du temps (Ex: des objets qui coller au plafon ou des sons étranges et perturbant).
-# L'installation en cours dans les studios
-![image de l'instalation de Distorsion collective](media/image_distorsion_collective_01.png)
-![image de l'instalation de Distorsion collective](media/image_distorsion_collective_02.png)
+L'ambiance au tout début est calme et relaxe, l'histoire se déroule à 4 endroits, dans le grand studio au tout début, le grand studio est bleu avec de la musique relaxante. Le deuxième endroit est la chambre le matin ou il y a son ordinateur pour rejoindre le Zoam de classe et communiquer avec son professeur. Le troisième endroit est la salle a manger où mangent ses céréales. Le quatrième endroit est le soir dans son salon où le personnage regarde la télévision. Tous les endroits deviennent de plus en plus étranges au fil du temps (ex: des objets qui coller au plafond ou des sons étranges et perturbants).
+# L'installation en cours dans les studios ![image de l'installation de Distorsion collective](media/image_distorsion_collective_01.png) ![image de l'installation de Distorsion collective](media/image_distorsion_collective_02.png)
 
 Source : https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
-# Le schéma de l'installation prévue
-![image du schéma de plentation](media/image_distorsion_collective_schémas_plentation.png)
+# Le schéma de l'installation prévue ![image du schéma de plantation](media/image_distorsion_collective_schémas_plentation.png)
 
 Source : https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-Il sera attendu de nous de rentrer dans une pièce bleu où il y aura un casque de réaliter virtuelle que nous allon mettre sur notre tête. Une foix dans le jeu, nous somme dans la chambre du personnage qui commence ses cours Zoam en lignes et on parle avec le proffeseur qui explique les devoirs. Par la suite, la scène change et nous mangons un bol de céréale dans une cuisine. Ensuite la scène change et nous écoutons la télévisions dans un salon.L'est trois dernière étapes recommence tout le le long de l'histoire.
+Il sera attendu de nous de rentrer dans une pièce bleue où il y aura un casque de réalité virtuelle que nous allons mettre sur notre tête. Une fois dans le jeu, nous sommes dans la chambre du personnage qui commence ses cours Zoam en lignes et on parle avec le professeur qui explique les devoirs. Par la suite, la scène change et nous mangeons un bol de céréales dans une cuisine. Ensuite la scène change et nous écoutons la télévision dans un salon.L'est trois dernières étapes recommence tout le le long de l'histoire.
 
-# 3 cours du programme qui vous semblent incontournable pour avoir les compétences pour créer ce projet
-1. Le premiere cours qu'il faudrait pour réaliser le projet serait le cours de modélisation 3D pour réaliser le décors dans la réaliter virtuelle pour rendre le plus réaliste possible l'experience.
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+1. Le premier cours qu'il faudrait pour réaliser le projet serait le cours de modélisation 3D pour réaliser le décor dans la réalité virtuelle pour rendre le plus réaliste possible l'expérience.
 
-2. Le deuxieme cours serait le cours de réalitée virtuelle. En effet, pour intégrer les différents objets réaliser dans le cours de modélisation 3D.
+2. Le deuxième cours serait le cours de réalité virtuelle. En effet, pour intégrer les différents objets réalisez dans le cours de modélisation 3D.
 
-3. Le troisième cours de conception sonor pour réaliser les sons étranges qui viennent distabiliser le personnage.
-
+3. Le troisième cours de conception sonore pour réaliser les sons étranges qui viennent déstabiliser le personnage.

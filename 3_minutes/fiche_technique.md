@@ -23,4 +23,4 @@ Il sera attendu de nous de jouer au ballon chasseur grâce a un casque de réali
  
 3. Le deuxième cours qui nous semble nécessaire est le cours de conception sonor qui nous permettrait de créer un environnement sonor qui nous submergerait dans les deux vies de l'oeuvre. 
 
-4. le troisième est le cours de réalitée virtuelle qui nous permettrait d'intégrer nos objets 3D dans le monde heureux et de créer le jeu de ballon chasseur.   
+4. Le troisième est le cours de réalitée virtuelle qui nous permettrait d'intégrer nos objets 3D dans le monde heureux et de créer le jeu de ballon chasseur.   

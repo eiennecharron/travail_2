@@ -17,7 +17,16 @@
 
 
 # Ce que vous croyez que vous ressentirez en experimentant chacune des experimentations
-1. *L'horloge de l'apocalipse* : Je pense q
+1. *L'horloge de l'apocalipse* : Je suis sure que je serais curieux de voire le changement du monde dépendament du temps que sur l'horloge. J'imagine que je vais ressentire peu de tristesse pour le monde car le but de l'expérience est de réaliser que le monde peut prendre fin.
+
+2. *Chère Sasha* : C'est une des oeuvres que je suis le plus impatient d'assailler alors je vais définitivement être impatient et curieux quand j'intéragiserait avec les objets dans les chambres. Je serais surment impréssionner de voire comment le personnage est devenu une meilleur personne.
+
+3. *Jeu temporele* : Je vais définitivement avoir du plaisir a jouer au jeu téléviser, je pense que plus l'histoire va avancer, plus je me sentirais mal a l'aise si je répond aux questions qui on un impact négatif sur l'environement. Je suis sure que j'aurais envie de voire tous les fins possibles.
+
+4. *Distortion collective* : C'est celui qui sonne le plus intéressant en réalité virtuelle alors je serais définitivement très curieux. plus en plus que l'histoire avance je pense que jais commencer a être un peu mal a laise puisuqe les scnène vont devenir étranges et bizard.
+
+5.
+ 
 
 
 

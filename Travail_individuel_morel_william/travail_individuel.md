@@ -1,4 +1,4 @@
-## Mes projets favoris
+## *Mes projets favoris*
 
 
 
@@ -11,3 +11,20 @@
 | 6. Distorsion collective     | Distorsion collective est un projet qui semble très intéressant, mais comme nous n'avons aucune ou presque aucune information. Pour cela, il est difficile d'aimer ce projet, aussi j'aurais aimé avoir une vidéo explicative du projet. Même si le projet à une très bonne idée, il est original et démontre les conséquences des cours en ligne, je pense que pour l'instant le projet mériterait la dernière place.                                                                                                                  | ![collective](media/collective.png)     |
 
 Source:https://tim-montmorency.com/2022/index.html
+
+
+## *Ce que je crois que je vais ressentir en expériementant chacune des installations*
+
+| 1. 3 minutes                 | Je crois que je vais ressentir au début de l'expérience une joie et une envie de gagner,car je suis compétitif. Au deuxième 3 minutes je pense ressentir un très gros inconfort et même une tristesse. Je suis quand même déçu de savoir l'histoire et de ne pas avoir la surprise, mais je pense quand même vivre l'expérience à 100%.  | ![3_minute.png](media/3_minute.png)     |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| 2. L'horloge de l'apocalypse | Je crois que je vais ressentir une envie de toucher l'aiguille et de jouer avec même si je sais que ce n'est pas le but de l'expérience. Aussi je pense que je vais ressentir chaque ambiance de chaque scène, certaines fois je vais ressentir de la joie, du découragement ou même de la tristesse.                                    | ![apocalypse](media/apocalypse.png)     |
+| 3. Jeux temporel             | Je crois que je vais ressentir une envie de concurrence, de réussir à avoir les bonnes réponses du premier coup. Si je me trompe, je sais que je vais ressentir de la frustration et aussi le gout de découvrir les mauvaises réponses pour savoir les conséquences climatiques.                                                         | ![jeu_temporel](media/jeu_temporel.png) |
+| 4. Chère Sasha               | Je crois que je vais ressentir de la compassion et une envie d'aider Sasha adolescente. Je pense que je vais vouloir tout découvrir et interagir avec tout ce qui est à notre disposition.                                                                                                                                               | ![chere_sasha](media/chere_sasha.png)   |
+| 5. Chronaufrage              | Je pense que je vais ressentir joie à admirer le visuel du projet, de comprendre toutes les techniques artistiques utilisées. Aussi je vais essayer de mieux comprendre le but des artistes pour ressentir ce qu'ils veulent véhiculer.                                                                                                  | ![chronaufage](media/chronaufage)       |
+| 6. Distorsion collective     | Je crois que je vais ressentir de l'étonnement, car je ne sais absolument rien du projet et j'ai hâte de le découvrir.                                                                                                                                                                                                                   | ![collective](media/collective.png)     |
+
+
+## *Le rôle que je crois que je vais jouer dans un tel projet, lorsque je serai en 3e année*
+Je pense que je vais jouer le rôle plus statistique, qui s'occupe des budgets, qui va s'occuper que l'échéance demandée est respecté, de s'occuper du matériel requis et bien sûr travailler quand même un peu sur le projet. Je veux m'assurer que le projet soit réalisable à faire avant le commencement.   
+
+

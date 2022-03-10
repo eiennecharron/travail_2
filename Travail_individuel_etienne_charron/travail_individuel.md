@@ -17,17 +17,13 @@
 
 
 # Ce que vous croyez que vous ressentirez en experimentant chacune des experimentations
-- *L'horloge de l'apocalipse* : Je suis sure que je serais curieux de voire le changement du monde dépendament du temps que sur l'horloge. J'imagine que je vais ressentire peu de tristesse pour le monde car le but de l'expérience est de réaliser que le monde peut prendre fin.
-
-- *Chère Sasha* : C'est une des oeuvres que je suis le plus impatient d'assailler alors je vais définitivement être impatient et curieux quand j'intéragiserait avec les objets dans les chambres. Je serais surment impréssionner de voire comment le personnage est devenu une meilleur personne.
-
-- *Jeu temporele* : Je vais définitivement avoir du plaisir a jouer au jeu téléviser, je pense que plus l'histoire va avancer, plus je me sentirais mal a l'aise si je répond aux questions qui on un impact négatif sur l'environement. Je suis sure que j'aurais envie de voire tous les fins possibles.
-
-- *Distortion collective* : C'est celui qui sonne le plus intéressant en réalité virtuelle alors je serais définitivement très curieux. plus en plus que l'histoire avance je pense que jais commencer a être un peu mal a laise puisuqe les scnène vont devenir étranges et bizard.
-
-- *Chronaufrage* : je vais être impressionner du résultats final des dessin et des animation. Je vais peut-être être un peu triste pour le personnage de l'histoire qui vit des situations triste comme quand le noie ou quand elle essai de boucher des troues sans succès.
-
-- *3 minutes* : je vais avoir du plaisir a jouer au ballon chasseur et assailler d'avoir le meilleur score possible. Dans le casier, je pene que je me sentirais effrayer, déranger ou même de la peur à cause des sons étranges qui vont m'entourer.
+| L'horloge de l'apocalypse | Je suis sure que je serais curieux de voir le changement du monde dépendamment du temps que sur l'horloge. J'imagine que je vais ressentir peu de tristesse pour le monde, car le but de l'expérience est de réaliser que le monde peut prendre fin.                                    |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chère Sasha               | C'est une des oeuvres que je suis le plus impatient d'assaillez alors je vais sans aucun doute être impatient et curieux quand j'interagirai avec les objets dans les chambres. Je serais surement impressionné de voir comment le personnage est devenu une meilleure personne.        |
+| Jeu temporel              | Je vais sans aucun doute avoir du plaisir a jouer au jeu téléviser, je pense que plus l'histoire va avancer, plus je me sentirais mal à l'aise si je réponds aux questions qui on un impact négatif sur l'environnent. Je suis sure que j'aurais envie de voir tous les fins possibles. |
+| Distortion collective     | C'est celui qui sonne le plus intéressant en réalité virtuelle alors je serais sans aucun doute très curieux. Plus en plus que l'histoire avance, je pense que je vais commencer à être un peu mal à l’aise puisque les scènes vont devenir étranges et bizarres.                       |
+| Chronaufrage              | Je vais être impressionné du résultat final des dessins et des animations. Je vais possiblement être un peu triste pour le personnage de l'histoire qui vit des situations tristes comme quand elle se noie ou quand elle essaie de boucher des troues sans succès.                     |
+| 3 minutes                 | Je vais avoir du plaisir à jouer au ballon chasseur et assaillez d'avoir le meilleur score possible. Dans le casier, je pêne que je me sentirais effrayer, déranger ou même de la peur à cause des sons étranges qui vont m'entourer.                                                   |
  
 
 

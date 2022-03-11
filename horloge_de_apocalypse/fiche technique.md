@@ -14,10 +14,10 @@ Ils veulent démontrer l'impact de l'humain au niveau social politique et enviro
 # Quelle est l'ambiance du projet ?
 Chaque moment dans l'histoire aura une ambiance différente et une scène différente. La première scène l'ambiance est très calme, sécuritaire et la deuxième scène a ambiance est plutôt paradisiaque.  La troisième scène à une ambiance préhistorique et caverneuse et la quatrième scène à une ambiance hivernale. La cinquième scène à une ambiance médiévale, la sixième scène à une ambiance de renaissance et la septième ambiance elle est industrielle et menaçante. La huitième scène l'ambiance est moderne et mystérieuse, la neuvième scène à une ambiance militaire, la dixième scène à une ambiance sombre, lourde et malheureuse. Finalement, la dernière scène à une ambiance infernale et sinistre.
 
-# Voici l'installation en cours dans les studios  ![installation](media/projecteurs.jpeg)
+# Voici l'installation en cours dans les studios  ![installation](media/image_horloge_de_apocalypse_01.jpeg)
 Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
-# Le schéma de l'installation prévue ![plantation](media/plantation.png)
+# Le schéma de l'installation prévue ![plantation](media/image_horloge_de_apocalypse_plentation_01.png)
 Source : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
 # Comment est-ce que le téléspectateur doit-il interagir avec l'oeuvre ?

@@ -13,7 +13,7 @@ L'ambiance varie des tableaux, dans le premier tableau il y a de la pluie, dans 
 # L'installation en cours dans les studios ![image 1 de l'oeuvre Chronaufrage](media/image_chronaufrage_01.jpg) ![image 2 de l'oeuvre Chronaufrage](media/image_chronaufrage_02.jpg)
 
 Source : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
-# le schéma de l'installation prévue ![image du schéma de plantation](media/image_chronaufrage_plentation.png)
+# le schéma de l'installation prévue ![image du schéma de plantation](media/image_chronaufrage_plentation_01.png)
 
 Source : https://github.com/Blobduckies/Chronaufrage/blob/main/docs/preproduction/medias/plan_technique.png
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation

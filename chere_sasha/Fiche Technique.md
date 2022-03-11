@@ -16,7 +16,7 @@ L'ambiance est pour le côté de la chambre de Sasha adolescente désordonnée, 
 # Voici l'installation en cours dans les studios  ![installation](media/image_chere_sasha_01.jpg)
 Source : https:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
-# Le schéma de l'installation prévue ![plantation](media/plantation_01.jpg)
+# Le schéma de l'installation prévue ![plantation](media/image_chere_sasha_plentation_01.jpg)
 Source : https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
 # Ce qui est prévu du téléspectateur est

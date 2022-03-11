@@ -13,7 +13,7 @@
 # Comment l'ambiance est-elle ?
 L'ambiance est pour le côté de la chambre de Sasha adolescente désordonnée, froide, dépressive,sombre et pour le côté adulte de la chambre de Sasha une ambiance heureuse, colorée, douce et confortable.
 
-# Voici l'installation en cours dans les studios  ![installation](media/installation.jpg)
+# Voici l'installation en cours dans les studios  ![installation](media/image_chere_sasha_01.jpg)
 Source : https:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 # Le schéma de l'installation prévue ![plantation](media/plantation_01.jpg)

@@ -9,11 +9,11 @@ Le temps exploiter dans la création nous permet de vivre 3 minutes dans 2 vies 
 # L'ambiance
 Il y a 2 ambiances différentes dans l'oeuvre, une heureuse où on y joue au ballon chasseur dans un gymnase et une autre obscure et malheureuse où l’on y vit la vie d'une personne intimidée coincée dans un casier.
 # L'installation en cours dans les studios
-![image de l'installation de 3 Minutes](media/image_3_minutes.png)
+![image de l'installation de 3 Minutes](media/image_3_minutes_01.png)
 
 Source : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Le schéma de l'installation prévue
-![image du schéma de plentation](media/image_3_minutes_plentation.png)
+![image du schéma de plentation](media/image_3_minutes_plentation_01.png)
 
 Source : https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation

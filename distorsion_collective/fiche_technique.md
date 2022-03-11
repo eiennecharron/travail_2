@@ -10,7 +10,7 @@ L'ambiance au tout début est calme et relaxe, l'histoire se déroule à 4 endro
 # L'installation en cours dans les studios ![image de l'installation de Distorsion collective](media/image_distorsion_collective_01.png) ![image de l'installation de Distorsion collective](media/image_distorsion_collective_02.png)
 
 Source : https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
-# Le schéma de l'installation prévue ![image du schéma de plantation](media/image_distorsion_collective_schémas_plentation_01.png)
+# Le schéma de l'installation prévue ![image du schéma de plantation](media/image_distorsion_collective_plentation_01.png)
 
 Source : https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
